@@ -1,6 +1,6 @@
 # Unit 1
 ## Lesson 1
-### Basic Conversation
+### Introduce yourself
 
 >A - Gòðan daginn.
 >
@@ -23,3 +23,19 @@
 - Þeir - They (Men)
 - Þær - They (Women)
 - Þau - They (men and women)
+
+## Lesson 2
+### Asking where´re you from
+
+> A - Daniel, frà hvaða landi ert þù?
+>
+> B - Èg er frà Palestìnu. En þù?
+>
+> A - Èg er frà Pollandi.
+
+### Sex
+
+> Ert þù kona eða maður?
+
+- kona - woman
+- maður - man
