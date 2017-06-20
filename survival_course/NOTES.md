@@ -39,3 +39,31 @@
 
 - kona - woman
 - maður - man
+
+### Name
+
+- nafn - name
+- klukka - clock
+- bòk - book
+
+### What is this?
+
+>> Hvað er þetta?
+>
+> Þetta er sìmi.
+>
+> Þetta er penni.
+>
+> Þetta er klukka.
+>
+> Þetta er bòk.
+
+### Þú concatenation
+
+> Ert þù frà Palestìnu? -> Ertu frà Palestìnu?
+>
+> Frà hvaða landi ert þù? -> Frà hvaða landi ertu?
+>
+> Ert þù með penna? -> Ertu með penna?
+>
+> Hvað heiter þù? -> Hvað heiterðu?
