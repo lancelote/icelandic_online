@@ -67,3 +67,17 @@
 > Ert þú með penna? -> Ertu með penna?
 >
 > Hvað heiter þú? -> Hvað heiterðu?
+
+### Familie
+
+> Hann er maður.
+>
+> Hún er stelpa.
+>
+> Hún er kona.
+>
+> Þau eru krakkar.
+>
+> Þau eru fjölskylda.
+>
+> Hann er strákur.
