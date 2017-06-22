@@ -2,5 +2,5 @@
 
 - [ ] How to pronounce þ og ð?
 - [ ] Add all unknown words to Quizlet
-- [ ] Push repository
+- [x] Push repository
 - [x] Add README
