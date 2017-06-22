@@ -2,13 +2,13 @@
 ## Lesson 1
 ### Introduce yourself
 
->A - Gòðan daginn.
+>A - Góðan daginn.
 >
->B - Gòðan daginn.
+>B - Góðan daginn.
 >
->A - Èg heiti Daniel. Hvað heitir þu?
+>A - Ég heiti Daniel. Hvað heitir þu?
 >
->B - Èg heiti Ewa.
+>B - Ég heiti Ewa.
 >
 >A - Hvað segirðu gott?
 >
@@ -16,10 +16,10 @@
 
 ### Pronouns
 
-- Èg - I
-- Þù - You
+- Ég - I
+- Þú - You
 - Hann - He
-- Hùn - She
+- Hún - She
 - Þeir - They (Men)
 - Þær - They (Women)
 - Þau - They (men and women)
@@ -27,15 +27,15 @@
 ## Lesson 2
 ### Asking where´re you from
 
-> A - Daniel, frà hvaða landi ert þù?
+> A - Daniel, frá hvaða landi ert þú?
 >
-> B - Èg er frà Palestìnu. En þù?
+> B - Ég er frá Palestínu. En þú?
 >
-> A - Èg er frà Pollandi.
+> A - Èg er frá Pollandi.
 
 ### Sex
 
-> Ert þù kona eða maður?
+> Ert þú kona eða maður?
 
 - kona - woman
 - maður - man
@@ -44,26 +44,26 @@
 
 - nafn - name
 - klukka - clock
-- bòk - book
+- bók - book
 
 ### What is this?
 
 >> Hvað er þetta?
 >
-> Þetta er sìmi.
+> Þetta er sími.
 >
 > Þetta er penni.
 >
 > Þetta er klukka.
 >
-> Þetta er bòk.
+> Þetta er bók.
 
 ### Þú concatenation
 
-> Ert þù frà Palestìnu? -> Ertu frà Palestìnu?
+> Ert þú frá Palestínu? -> Ertu frá Palestínu?
 >
-> Frà hvaða landi ert þù? -> Frà hvaða landi ertu?
+> Frá hvaða landi ert þú? -> Frá hvaða landi ertu?
 >
-> Ert þù með penna? -> Ertu með penna?
+> Ert þú með penna? -> Ertu með penna?
 >
-> Hvað heiter þù? -> Hvað heiterðu?
+> Hvað heiter þú? -> Hvað heiterðu?
