@@ -81,3 +81,15 @@
 > Þau eru fjölskylda.
 >
 > Hann er strákur.
+
+## Lesson 3
+
+> A - Hvaða tungumál talar þú?
+>
+> B - Ég tala pólsku, ensku og smá íslensku. En þú?
+>
+> A - Ég tala arabísku og ensku.
+>
+> B - Ertu að læra íslensku?
+>
+> A - Já, ég er að læra íslensku.
